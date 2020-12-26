@@ -1,1 +1,2 @@
 # Crisp-DM_project
+Crisp-DM, which stands for cross-industry process for data mining, is the golden standard for processing and preparing data for any data science project. The code provided here is prurely an example of the steps within a Crisp-DM workflow. The IBM telocomunication churn dataset is used to illistrate the Crisp-DM workflow (https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv).
